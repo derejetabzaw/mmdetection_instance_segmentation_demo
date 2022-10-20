@@ -111,9 +111,9 @@
     ],
     "categories": [
         {
-            "supercategory": "chinese",
+            "supercategory": "API",
             "id": 1,
-            "name": "chinese"
+            "name": "API"
         },
         {
             "supercategory": "Area",
