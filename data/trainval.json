@@ -111,19 +111,24 @@
     ],
     "categories": [
         {
-            "supercategory": "date",
+            "supercategory": "chinese",
             "id": 1,
-            "name": "date"
+            "name": "chinese"
         },
         {
-            "supercategory": "fig",
+            "supercategory": "Area",
             "id": 2,
-            "name": "fig"
+            "name": "Area"
         },
         {
-            "supercategory": "hazelnut",
+            "supercategory": "Line",
             "id": 3,
-            "name": "hazelnut"
+            "name": "Line"
+        },
+        {
+            "supercategory": "Reel",
+            "id": 4,
+            "name": "Reel"
         }
     ],
     "annotations": [
